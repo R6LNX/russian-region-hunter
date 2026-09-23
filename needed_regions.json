@@ -1,0 +1,2696 @@
+[
+  {
+    "region": "R0A",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Krasnoyarskiy kray"
+  },
+  {
+    "region": "R0C",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Habarovskiy kray"
+  },
+  {
+    "region": "R0C",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Habarovskiy kray"
+  },
+  {
+    "region": "R0C",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Habarovskiy kray"
+  },
+  {
+    "region": "R0C",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Habarovskiy kray"
+  },
+  {
+    "region": "R0C",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Habarovskiy kray"
+  },
+  {
+    "region": "R0C",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Habarovskiy kray"
+  },
+  {
+    "region": "R0C",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Habarovskiy kray"
+  },
+  {
+    "region": "R0D",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0D",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0D",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0D",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0D",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0D",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0D",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0D",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0D",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Evreyskaya A. O."
+  },
+  {
+    "region": "R0F",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Sahalinskaya oblast"
+  },
+  {
+    "region": "R0F",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Sahalinskaya oblast"
+  },
+  {
+    "region": "R0F",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Sahalinskaya oblast"
+  },
+  {
+    "region": "R0F",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Sahalinskaya oblast"
+  },
+  {
+    "region": "R0F",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Sahalinskaya oblast"
+  },
+  {
+    "region": "R0I",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Magadanskaya oblast"
+  },
+  {
+    "region": "R0I",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Magadanskaya oblast"
+  },
+  {
+    "region": "R0I",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Magadanskaya oblast"
+  },
+  {
+    "region": "R0I",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Magadanskaya oblast"
+  },
+  {
+    "region": "R0I",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Magadanskaya oblast"
+  },
+  {
+    "region": "R0I",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Magadanskaya oblast"
+  },
+  {
+    "region": "R0I",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Magadanskaya oblast"
+  },
+  {
+    "region": "R0J",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Amurskaya oblast"
+  },
+  {
+    "region": "R0J",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Amurskaya oblast"
+  },
+  {
+    "region": "R0J",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Amurskaya oblast"
+  },
+  {
+    "region": "R0J",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Amurskaya oblast"
+  },
+  {
+    "region": "R0J",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Amurskaya oblast"
+  },
+  {
+    "region": "R0J",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Amurskaya oblast"
+  },
+  {
+    "region": "R0K",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0K",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0K",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0K",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0K",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0K",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0K",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0K",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0K",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Chukotskiy A.O."
+  },
+  {
+    "region": "R0L",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Primorskiy kray"
+  },
+  {
+    "region": "R0L",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Primorskiy kray"
+  },
+  {
+    "region": "R0L",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Primorskiy kray"
+  },
+  {
+    "region": "R0L",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Primorskiy kray"
+  },
+  {
+    "region": "R0L",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Primorskiy kray"
+  },
+  {
+    "region": "R0O",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Buryatiya"
+  },
+  {
+    "region": "R0O",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Buryatiya"
+  },
+  {
+    "region": "R0O",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Respublika Buryatiya"
+  },
+  {
+    "region": "R0O",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Buryatiya"
+  },
+  {
+    "region": "R0O",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Buryatiya"
+  },
+  {
+    "region": "R0O",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Buryatiya"
+  },
+  {
+    "region": "R0O",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Buryatiya"
+  },
+  {
+    "region": "R0O",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Buryatiya"
+  },
+  {
+    "region": "R0Q",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Saha (Yakutiya)"
+  },
+  {
+    "region": "R0Q",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Saha (Yakutiya)"
+  },
+  {
+    "region": "R0Q",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Respublika Saha (Yakutiya)"
+  },
+  {
+    "region": "R0Q",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Saha (Yakutiya)"
+  },
+  {
+    "region": "R0Q",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Saha (Yakutiya)"
+  },
+  {
+    "region": "R0Q",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Saha (Yakutiya)"
+  },
+  {
+    "region": "R0S",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Irkutskaya oblast"
+  },
+  {
+    "region": "R0S",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Irkutskaya oblast"
+  },
+  {
+    "region": "R0S",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Irkutskaya oblast"
+  },
+  {
+    "region": "R0U",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Zabaykalskiy kray"
+  },
+  {
+    "region": "R0U",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Zabaykalskiy kray"
+  },
+  {
+    "region": "R0U",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Zabaykalskiy kray"
+  },
+  {
+    "region": "R0U",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Zabaykalskiy kray"
+  },
+  {
+    "region": "R0U",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Zabaykalskiy kray"
+  },
+  {
+    "region": "R0U",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Zabaykalskiy kray"
+  },
+  {
+    "region": "R0U",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Zabaykalskiy kray"
+  },
+  {
+    "region": "R0W",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Hakasiya"
+  },
+  {
+    "region": "R0W",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Hakasiya"
+  },
+  {
+    "region": "R0W",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Hakasiya"
+  },
+  {
+    "region": "R0W",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Hakasiya"
+  },
+  {
+    "region": "R0W",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Hakasiya"
+  },
+  {
+    "region": "R0W",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Hakasiya"
+  },
+  {
+    "region": "R0Y",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Y",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Y",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Y",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Y",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Y",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Y",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Y",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Y",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Tyva"
+  },
+  {
+    "region": "R0Z",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kamchatskiy kray"
+  },
+  {
+    "region": "R0Z",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Kamchatskiy kray"
+  },
+  {
+    "region": "R0Z",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Kamchatskiy kray"
+  },
+  {
+    "region": "R0Z",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Kamchatskiy kray"
+  },
+  {
+    "region": "R0Z",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Kamchatskiy kray"
+  },
+  {
+    "region": "R0Z",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Kamchatskiy kray"
+  },
+  {
+    "region": "R0Z",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Kamchatskiy kray"
+  },
+  {
+    "region": "R1A",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "g. Sankt-Peterburg"
+  },
+  {
+    "region": "R1C",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Leningradskaya oblast"
+  },
+  {
+    "region": "R1C",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Leningradskaya oblast"
+  },
+  {
+    "region": "R1C",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Leningradskaya oblast"
+  },
+  {
+    "region": "R1C",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Leningradskaya oblast"
+  },
+  {
+    "region": "R1C",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Leningradskaya oblast"
+  },
+  {
+    "region": "R1N",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Kareliya"
+  },
+  {
+    "region": "R1N",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Kareliya"
+  },
+  {
+    "region": "R1N",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Respublika Kareliya"
+  },
+  {
+    "region": "R1N",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Kareliya"
+  },
+  {
+    "region": "R1N",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Kareliya"
+  },
+  {
+    "region": "R1N",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Kareliya"
+  },
+  {
+    "region": "R1N",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Kareliya"
+  },
+  {
+    "region": "R1O",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Arhangelskaya oblast"
+  },
+  {
+    "region": "R1O",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Arhangelskaya oblast"
+  },
+  {
+    "region": "R1P",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1P",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1P",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1P",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1P",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1P",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1P",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1P",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1P",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Neneckiy A.O."
+  },
+  {
+    "region": "R1Q",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Vologodskaya oblast"
+  },
+  {
+    "region": "R1Q",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Vologodskaya oblast"
+  },
+  {
+    "region": "R1Q",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Vologodskaya oblast"
+  },
+  {
+    "region": "R1Q",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Vologodskaya oblast"
+  },
+  {
+    "region": "R1Q",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Vologodskaya oblast"
+  },
+  {
+    "region": "R1Q",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Vologodskaya oblast"
+  },
+  {
+    "region": "R1Q",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Vologodskaya oblast"
+  },
+  {
+    "region": "R1T",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Novgorodskaya oblast"
+  },
+  {
+    "region": "R1T",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Novgorodskaya oblast"
+  },
+  {
+    "region": "R1T",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Novgorodskaya oblast"
+  },
+  {
+    "region": "R1T",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Novgorodskaya oblast"
+  },
+  {
+    "region": "R1T",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Novgorodskaya oblast"
+  },
+  {
+    "region": "R1W",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Pskovskaya oblast"
+  },
+  {
+    "region": "R1W",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Pskovskaya oblast"
+  },
+  {
+    "region": "R1W",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Pskovskaya oblast"
+  },
+  {
+    "region": "R1W",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Pskovskaya oblast"
+  },
+  {
+    "region": "R1W",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Pskovskaya oblast"
+  },
+  {
+    "region": "R1W",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Pskovskaya oblast"
+  },
+  {
+    "region": "R1W",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Pskovskaya oblast"
+  },
+  {
+    "region": "R1Z",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Murmanskaya oblast"
+  },
+  {
+    "region": "R1Z",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Murmanskaya oblast"
+  },
+  {
+    "region": "R1Z",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Murmanskaya oblast"
+  },
+  {
+    "region": "R1Z",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Murmanskaya oblast"
+  },
+  {
+    "region": "R1Z",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Murmanskaya oblast"
+  },
+  {
+    "region": "R2F",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kaliningradskaya oblast"
+  },
+  {
+    "region": "R3A",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "g. Moskva"
+  },
+  {
+    "region": "R3A",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "g. Moskva"
+  },
+  {
+    "region": "R3D",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Moskovskaya oblast"
+  },
+  {
+    "region": "R3E",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Orlovskaya oblast"
+  },
+  {
+    "region": "R3E",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Orlovskaya oblast"
+  },
+  {
+    "region": "R3E",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Orlovskaya oblast"
+  },
+  {
+    "region": "R3G",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Lipeckaya oblast"
+  },
+  {
+    "region": "R3G",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Lipeckaya oblast"
+  },
+  {
+    "region": "R3G",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Lipeckaya oblast"
+  },
+  {
+    "region": "R3G",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Lipeckaya oblast"
+  },
+  {
+    "region": "R3G",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Lipeckaya oblast"
+  },
+  {
+    "region": "R3G",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Lipeckaya oblast"
+  },
+  {
+    "region": "R3I",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Tverskaya oblast"
+  },
+  {
+    "region": "R3I",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Tverskaya oblast"
+  },
+  {
+    "region": "R3I",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Tverskaya oblast"
+  },
+  {
+    "region": "R3I",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Tverskaya oblast"
+  },
+  {
+    "region": "R3I",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Tverskaya oblast"
+  },
+  {
+    "region": "R3I",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Tverskaya oblast"
+  },
+  {
+    "region": "R3I",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Tverskaya oblast"
+  },
+  {
+    "region": "R3L",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Smolenskaya oblast"
+  },
+  {
+    "region": "R3L",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Smolenskaya oblast"
+  },
+  {
+    "region": "R3L",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Smolenskaya oblast"
+  },
+  {
+    "region": "R3L",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Smolenskaya oblast"
+  },
+  {
+    "region": "R3L",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Smolenskaya oblast"
+  },
+  {
+    "region": "R3L",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Smolenskaya oblast"
+  },
+  {
+    "region": "R3L",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Smolenskaya oblast"
+  },
+  {
+    "region": "R3L",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Smolenskaya oblast"
+  },
+  {
+    "region": "R3M",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Yaroslavskaya oblast"
+  },
+  {
+    "region": "R3M",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Yaroslavskaya oblast"
+  },
+  {
+    "region": "R3M",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Yaroslavskaya oblast"
+  },
+  {
+    "region": "R3M",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Yaroslavskaya oblast"
+  },
+  {
+    "region": "R3M",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Yaroslavskaya oblast"
+  },
+  {
+    "region": "R3N",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kostromskaya oblast"
+  },
+  {
+    "region": "R3N",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Kostromskaya oblast"
+  },
+  {
+    "region": "R3N",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Kostromskaya oblast"
+  },
+  {
+    "region": "R3N",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Kostromskaya oblast"
+  },
+  {
+    "region": "R3N",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Kostromskaya oblast"
+  },
+  {
+    "region": "R3N",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Kostromskaya oblast"
+  },
+  {
+    "region": "R3N",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Kostromskaya oblast"
+  },
+  {
+    "region": "R3N",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Kostromskaya oblast"
+  },
+  {
+    "region": "R3P",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Tulskaya oblast"
+  },
+  {
+    "region": "R3P",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Tulskaya oblast"
+  },
+  {
+    "region": "R3P",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Tulskaya oblast"
+  },
+  {
+    "region": "R3P",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Tulskaya oblast"
+  },
+  {
+    "region": "R3P",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Tulskaya oblast"
+  },
+  {
+    "region": "R3Q",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Voronezhskaya oblast"
+  },
+  {
+    "region": "R3Q",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Voronezhskaya oblast"
+  },
+  {
+    "region": "R3Q",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Voronezhskaya oblast"
+  },
+  {
+    "region": "R3Q",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Voronezhskaya oblast"
+  },
+  {
+    "region": "R3R",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Tambovskaya oblast"
+  },
+  {
+    "region": "R3R",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Tambovskaya oblast"
+  },
+  {
+    "region": "R3R",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Tambovskaya oblast"
+  },
+  {
+    "region": "R3S",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Ryazanskaya oblast"
+  },
+  {
+    "region": "R3S",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Ryazanskaya oblast"
+  },
+  {
+    "region": "R3S",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Ryazanskaya oblast"
+  },
+  {
+    "region": "R3S",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Ryazanskaya oblast"
+  },
+  {
+    "region": "R3S",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Ryazanskaya oblast"
+  },
+  {
+    "region": "R3T",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Nizhegorodskaya oblast"
+  },
+  {
+    "region": "R3T",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Nizhegorodskaya oblast"
+  },
+  {
+    "region": "R3T",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Nizhegorodskaya oblast"
+  },
+  {
+    "region": "R3U",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Ivanovskaya oblast"
+  },
+  {
+    "region": "R3U",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Ivanovskaya oblast"
+  },
+  {
+    "region": "R3U",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Ivanovskaya oblast"
+  },
+  {
+    "region": "R3U",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Ivanovskaya oblast"
+  },
+  {
+    "region": "R3V",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Vladimirskaya oblast"
+  },
+  {
+    "region": "R3V",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Vladimirskaya oblast"
+  },
+  {
+    "region": "R3V",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Vladimirskaya oblast"
+  },
+  {
+    "region": "R3V",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Vladimirskaya oblast"
+  },
+  {
+    "region": "R3V",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Vladimirskaya oblast"
+  },
+  {
+    "region": "R3W",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kurskaya oblast"
+  },
+  {
+    "region": "R3W",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Kurskaya oblast"
+  },
+  {
+    "region": "R3W",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Kurskaya oblast"
+  },
+  {
+    "region": "R3W",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Kurskaya oblast"
+  },
+  {
+    "region": "R3W",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Kurskaya oblast"
+  },
+  {
+    "region": "R3W",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Kurskaya oblast"
+  },
+  {
+    "region": "R3W",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Kurskaya oblast"
+  },
+  {
+    "region": "R3X",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kaluzhskaya oblast"
+  },
+  {
+    "region": "R3X",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Kaluzhskaya oblast"
+  },
+  {
+    "region": "R3X",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Kaluzhskaya oblast"
+  },
+  {
+    "region": "R3X",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Kaluzhskaya oblast"
+  },
+  {
+    "region": "R3X",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Kaluzhskaya oblast"
+  },
+  {
+    "region": "R3Y",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Bryanskaya oblast"
+  },
+  {
+    "region": "R3Y",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Bryanskaya oblast"
+  },
+  {
+    "region": "R3Y",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Bryanskaya oblast"
+  },
+  {
+    "region": "R3Y",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Bryanskaya oblast"
+  },
+  {
+    "region": "R3Y",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Bryanskaya oblast"
+  },
+  {
+    "region": "R3Y",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Bryanskaya oblast"
+  },
+  {
+    "region": "R3Y",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Bryanskaya oblast"
+  },
+  {
+    "region": "R3Z",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Belgorodskaya oblast"
+  },
+  {
+    "region": "R3Z",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Belgorodskaya oblast"
+  },
+  {
+    "region": "R3Z",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Belgorodskaya oblast"
+  },
+  {
+    "region": "R3Z",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Belgorodskaya oblast"
+  },
+  {
+    "region": "R3Z",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Belgorodskaya oblast"
+  },
+  {
+    "region": "R4A",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Volgogradskaya oblast"
+  },
+  {
+    "region": "R4A",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Volgogradskaya oblast"
+  },
+  {
+    "region": "R4A",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Volgogradskaya oblast"
+  },
+  {
+    "region": "R4A",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Volgogradskaya oblast"
+  },
+  {
+    "region": "R4A",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Volgogradskaya oblast"
+  },
+  {
+    "region": "R4A",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Volgogradskaya oblast"
+  },
+  {
+    "region": "R4C",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Saratovskaya oblast"
+  },
+  {
+    "region": "R4C",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Saratovskaya oblast"
+  },
+  {
+    "region": "R4F",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Penzenskaya oblast"
+  },
+  {
+    "region": "R4F",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Penzenskaya oblast"
+  },
+  {
+    "region": "R4H",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Samarskaya oblast"
+  },
+  {
+    "region": "R4H",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Samarskaya oblast"
+  },
+  {
+    "region": "R4H",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Samarskaya oblast"
+  },
+  {
+    "region": "R4L",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Ulyanovskaya oblast"
+  },
+  {
+    "region": "R4L",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Ulyanovskaya oblast"
+  },
+  {
+    "region": "R4L",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Ulyanovskaya oblast"
+  },
+  {
+    "region": "R4L",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Ulyanovskaya oblast"
+  },
+  {
+    "region": "R4L",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Ulyanovskaya oblast"
+  },
+  {
+    "region": "R4N",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kirovskaya oblast"
+  },
+  {
+    "region": "R4N",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Kirovskaya oblast"
+  },
+  {
+    "region": "R4N",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Kirovskaya oblast"
+  },
+  {
+    "region": "R4N",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Kirovskaya oblast"
+  },
+  {
+    "region": "R4N",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Kirovskaya oblast"
+  },
+  {
+    "region": "R4N",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Kirovskaya oblast"
+  },
+  {
+    "region": "R4P",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Tatarstan"
+  },
+  {
+    "region": "R4P",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Tatarstan"
+  },
+  {
+    "region": "R4P",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Tatarstan"
+  },
+  {
+    "region": "R4S",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Mariy El"
+  },
+  {
+    "region": "R4S",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Mariy El"
+  },
+  {
+    "region": "R4S",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Mariy El"
+  },
+  {
+    "region": "R4S",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Mariy El"
+  },
+  {
+    "region": "R4U",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Mordoviya"
+  },
+  {
+    "region": "R4U",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Mordoviya"
+  },
+  {
+    "region": "R4U",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Mordoviya"
+  },
+  {
+    "region": "R4U",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Mordoviya"
+  },
+  {
+    "region": "R4U",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Mordoviya"
+  },
+  {
+    "region": "R4U",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Mordoviya"
+  },
+  {
+    "region": "R4U",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Mordoviya"
+  },
+  {
+    "region": "R4W",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Udmurtskaya Respublika"
+  },
+  {
+    "region": "R4W",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Udmurtskaya Respublika"
+  },
+  {
+    "region": "R4W",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Udmurtskaya Respublika"
+  },
+  {
+    "region": "R4W",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Udmurtskaya Respublika"
+  },
+  {
+    "region": "R4W",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Udmurtskaya Respublika"
+  },
+  {
+    "region": "R4W",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Udmurtskaya Respublika"
+  },
+  {
+    "region": "R4W",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Udmurtskaya Respublika"
+  },
+  {
+    "region": "R4Y",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Chuvashskaya Respublika"
+  },
+  {
+    "region": "R4Y",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Chuvashskaya Respublika"
+  },
+  {
+    "region": "R4Y",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Chuvashskaya Respublika"
+  },
+  {
+    "region": "R4Y",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Chuvashskaya Respublika"
+  },
+  {
+    "region": "R4Y",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Chuvashskaya Respublika"
+  },
+  {
+    "region": "R4Y",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Chuvashskaya Respublika"
+  },
+  {
+    "region": "R6A",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Krasnodarskiy kray"
+  },
+  {
+    "region": "R6A",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Krasnodarskiy kray"
+  },
+  {
+    "region": "R6A",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Krasnodarskiy kray"
+  },
+  {
+    "region": "R6A",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Krasnodarskiy kray"
+  },
+  {
+    "region": "R6E",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Karachaevo-Cherkesskaya Respublika"
+  },
+  {
+    "region": "R6E",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Karachaevo-Cherkesskaya Respublika"
+  },
+  {
+    "region": "R6E",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Karachaevo-Cherkesskaya Respublika"
+  },
+  {
+    "region": "R6E",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Karachaevo-Cherkesskaya Respublika"
+  },
+  {
+    "region": "R6E",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Karachaevo-Cherkesskaya Respublika"
+  },
+  {
+    "region": "R6E",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Karachaevo-Cherkesskaya Respublika"
+  },
+  {
+    "region": "R6E",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Karachaevo-Cherkesskaya Respublika"
+  },
+  {
+    "region": "R6E",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Karachaevo-Cherkesskaya Respublika"
+  },
+  {
+    "region": "R6H",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Stavropolskiy kray"
+  },
+  {
+    "region": "R6H",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Stavropolskiy kray"
+  },
+  {
+    "region": "R6H",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Stavropolskiy kray"
+  },
+  {
+    "region": "R6H",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Stavropolskiy kray"
+  },
+  {
+    "region": "R6H",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Stavropolskiy kray"
+  },
+  {
+    "region": "R6H",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Stavropolskiy kray"
+  },
+  {
+    "region": "R6I",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6I",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6I",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6I",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6I",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6I",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6I",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6I",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6I",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Kalmykiya"
+  },
+  {
+    "region": "R6J",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Respublika Severnaya Osetiya - Alaniya"
+  },
+  {
+    "region": "R6J",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Severnaya Osetiya - Alaniya"
+  },
+  {
+    "region": "R6J",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Severnaya Osetiya - Alaniya"
+  },
+  {
+    "region": "R6J",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Severnaya Osetiya - Alaniya"
+  },
+  {
+    "region": "R6J",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Severnaya Osetiya - Alaniya"
+  },
+  {
+    "region": "R6J",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Severnaya Osetiya - Alaniya"
+  },
+  {
+    "region": "R6J",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Severnaya Osetiya - Alaniya"
+  },
+  {
+    "region": "R6L",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Rostovskaya oblast"
+  },
+  {
+    "region": "R6L",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Rostovskaya oblast"
+  },
+  {
+    "region": "R6P",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Chechenskaya Respublika"
+  },
+  {
+    "region": "R6P",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Chechenskaya Respublika"
+  },
+  {
+    "region": "R6P",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Chechenskaya Respublika"
+  },
+  {
+    "region": "R6P",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Chechenskaya Respublika"
+  },
+  {
+    "region": "R6P",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Chechenskaya Respublika"
+  },
+  {
+    "region": "R6P",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Chechenskaya Respublika"
+  },
+  {
+    "region": "R6P",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Chechenskaya Respublika"
+  },
+  {
+    "region": "R6P",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Chechenskaya Respublika"
+  },
+  {
+    "region": "R6Q",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6Q",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6Q",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6Q",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6Q",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6Q",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6Q",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6Q",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6Q",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Ingushetiya"
+  },
+  {
+    "region": "R6U",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6U",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6U",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6U",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6U",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6U",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6U",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6U",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6U",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Astrahanskaya oblast"
+  },
+  {
+    "region": "R6W",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Dagestan"
+  },
+  {
+    "region": "R6W",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Dagestan"
+  },
+  {
+    "region": "R6W",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Dagestan"
+  },
+  {
+    "region": "R6W",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Dagestan"
+  },
+  {
+    "region": "R6W",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Dagestan"
+  },
+  {
+    "region": "R6W",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Dagestan"
+  },
+  {
+    "region": "R6W",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Dagestan"
+  },
+  {
+    "region": "R6X",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kabardino-Balkarskaya Respublika"
+  },
+  {
+    "region": "R6X",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Kabardino-Balkarskaya Respublika"
+  },
+  {
+    "region": "R6X",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Kabardino-Balkarskaya Respublika"
+  },
+  {
+    "region": "R6X",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Kabardino-Balkarskaya Respublika"
+  },
+  {
+    "region": "R6X",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Kabardino-Balkarskaya Respublika"
+  },
+  {
+    "region": "R6X",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Kabardino-Balkarskaya Respublika"
+  },
+  {
+    "region": "R6X",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Kabardino-Balkarskaya Respublika"
+  },
+  {
+    "region": "R6X",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Kabardino-Balkarskaya Respublika"
+  },
+  {
+    "region": "R6Y",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Adygeya"
+  },
+  {
+    "region": "R6Y",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Adygeya"
+  },
+  {
+    "region": "R6Y",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Adygeya"
+  },
+  {
+    "region": "R6Y",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Adygeya"
+  },
+  {
+    "region": "R6Y",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Adygeya"
+  },
+  {
+    "region": "R6Y",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Adygeya"
+  },
+  {
+    "region": "R6Y",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Adygeya"
+  },
+  {
+    "region": "R6Y",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Adygeya"
+  },
+  {
+    "region": "R7K",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Krym"
+  },
+  {
+    "region": "R7K",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Krym"
+  },
+  {
+    "region": "R7K",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Krym"
+  },
+  {
+    "region": "R7K",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Krym"
+  },
+  {
+    "region": "R7K",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Krym"
+  },
+  {
+    "region": "R7K",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Krym"
+  },
+  {
+    "region": "R7R",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "g. Sevastopol"
+  },
+  {
+    "region": "R7R",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "g. Sevastopol"
+  },
+  {
+    "region": "R7R",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "g. Sevastopol"
+  },
+  {
+    "region": "R7R",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "g. Sevastopol"
+  },
+  {
+    "region": "R7R",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "g. Sevastopol"
+  },
+  {
+    "region": "R7R",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "g. Sevastopol"
+  },
+  {
+    "region": "R9A",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Chelyabinskaya oblast"
+  },
+  {
+    "region": "R9A",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Chelyabinskaya oblast"
+  },
+  {
+    "region": "R9C",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Sverdlovskaya oblast"
+  },
+  {
+    "region": "R9F",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Permskiy kray"
+  },
+  {
+    "region": "R9F",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Permskiy kray"
+  },
+  {
+    "region": "R9F",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Permskiy kray"
+  },
+  {
+    "region": "R9F",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Permskiy kray"
+  },
+  {
+    "region": "R9H",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Tomskaya oblast"
+  },
+  {
+    "region": "R9H",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Tomskaya oblast"
+  },
+  {
+    "region": "R9H",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Tomskaya oblast"
+  },
+  {
+    "region": "R9H",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Tomskaya oblast"
+  },
+  {
+    "region": "R9H",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Tomskaya oblast"
+  },
+  {
+    "region": "R9H",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Tomskaya oblast"
+  },
+  {
+    "region": "R9J",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Hanty-Mansiyskiy A.O. - Yugra"
+  },
+  {
+    "region": "R9J",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Hanty-Mansiyskiy A.O. - Yugra"
+  },
+  {
+    "region": "R9J",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Hanty-Mansiyskiy A.O. - Yugra"
+  },
+  {
+    "region": "R9J",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Hanty-Mansiyskiy A.O. - Yugra"
+  },
+  {
+    "region": "R9J",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Hanty-Mansiyskiy A.O. - Yugra"
+  },
+  {
+    "region": "R9K",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Yamalo-Neneckiy A.O."
+  },
+  {
+    "region": "R9K",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Yamalo-Neneckiy A.O."
+  },
+  {
+    "region": "R9K",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Yamalo-Neneckiy A.O."
+  },
+  {
+    "region": "R9K",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Yamalo-Neneckiy A.O."
+  },
+  {
+    "region": "R9K",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Yamalo-Neneckiy A.O."
+  },
+  {
+    "region": "R9K",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Yamalo-Neneckiy A.O."
+  },
+  {
+    "region": "R9L",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Tyumenskaya oblast"
+  },
+  {
+    "region": "R9L",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Tyumenskaya oblast"
+  },
+  {
+    "region": "R9L",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Tyumenskaya oblast"
+  },
+  {
+    "region": "R9M",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Omskaya oblast"
+  },
+  {
+    "region": "R9M",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Omskaya oblast"
+  },
+  {
+    "region": "R9M",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Omskaya oblast"
+  },
+  {
+    "region": "R9M",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Omskaya oblast"
+  },
+  {
+    "region": "R9O",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Novosibirskaya oblast"
+  },
+  {
+    "region": "R9O",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Novosibirskaya oblast"
+  },
+  {
+    "region": "R9O",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Novosibirskaya oblast"
+  },
+  {
+    "region": "R9Q",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kurganskaya oblast"
+  },
+  {
+    "region": "R9Q",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Kurganskaya oblast"
+  },
+  {
+    "region": "R9Q",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Kurganskaya oblast"
+  },
+  {
+    "region": "R9S",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Orenburgskaya oblast"
+  },
+  {
+    "region": "R9S",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Orenburgskaya oblast"
+  },
+  {
+    "region": "R9U",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Kemerovskaya oblast"
+  },
+  {
+    "region": "R9U",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Kemerovskaya oblast"
+  },
+  {
+    "region": "R9W",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Bashkortostan"
+  },
+  {
+    "region": "R9W",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Bashkortostan"
+  },
+  {
+    "region": "R9W",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Bashkortostan"
+  },
+  {
+    "region": "R9W",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Bashkortostan"
+  },
+  {
+    "region": "R9X",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Komi"
+  },
+  {
+    "region": "R9X",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Komi"
+  },
+  {
+    "region": "R9X",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Komi"
+  },
+  {
+    "region": "R9Y",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Altayskiy kray"
+  },
+  {
+    "region": "R9Y",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Altayskiy kray"
+  },
+  {
+    "region": "R9Y",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Altayskiy kray"
+  },
+  {
+    "region": "R9Y",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Altayskiy kray"
+  },
+  {
+    "region": "R9Y",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Altayskiy kray"
+  },
+  {
+    "region": "R9Z",
+    "band": "160M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "R9Z",
+    "band": "80M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "R9Z",
+    "band": "40M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "R9Z",
+    "band": "30M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "R9Z",
+    "band": "20M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "R9Z",
+    "band": "17M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "R9Z",
+    "band": "15M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "R9Z",
+    "band": "12M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "R9Z",
+    "band": "10M",
+    "mode": "DIG",
+    "name": "Respublika Altay"
+  },
+  {
+    "region": "160M",
+    "band": "160M",
+    "mode": "DIG",
+    "name": ""
+  },
+  {
+    "region": "160M",
+    "band": "80M",
+    "mode": "DIG",
+    "name": ""
+  }
+]
