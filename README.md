@@ -87,22 +87,6 @@ python app.py
 7. Открой в браузере
 http://127.0.0.1:5000
 
-📁 Структура проекта
-russian-region-hunter/
-├── app.py                  # Веб-сервер (Flask)
-├── monitor.py              # Консольный монитор
-├── config.py               # Конфигурация и чёрный список скимеров
-├── psk_source.py           # Получение данных с PSKReporter
-├── srr_regions.py          # Определение регионов (справочник СРР)
-├── hamlog_parser.py        # Парсинг таблицы несработанных регионов
-├── test_logic.py           # Тесты логики
-├── srr_info.json           # Справочники СРР (регионы, диапазоны, моды)
-├── requirements.txt        # Python зависимости
-├── README.md               # Этот файл
-├── .gitignore              # Игнорируемые файлы Git
-└── templates/
-    └── index.html          # Веб-интерфейс
-
 ⚙️ Конфигурация
 Все настройки в файле config.py.
 
