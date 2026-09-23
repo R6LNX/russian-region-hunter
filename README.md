@@ -73,8 +73,11 @@ pip install -r requirements.txt
 3. Сохрани страницу статистики с Hamlog
 Войди в аккаунт
 Зайди на https://hamlog.online/account/rregions.php
+
 Сохрани страницу как hamlog_page.html в папку проекта
+
 Тип файла: «Веб-страница, только HTML»
+
 ⚠️ Файл hamlog_page.html не загружается в репозиторий (личные данные). Он нужен только локально.
 
 5. Сгенерируй список несработанных регионов
@@ -86,25 +89,6 @@ python app.py
 
 7. Открой в браузере
 http://127.0.0.1:5000
-
-⚙️ Конфигурация
-Все настройки в файле config.py.
-
-Чёрный список скимеров
-Список EXCLUDED_DECODER_SOFTWARE содержит подстроки для автоматического отсева:
-Веб-SDR (публичные приёмники без оператора):
-kiwisdr — KiwiSDR
-openwebrx — OpenWebRX
-websdr — WebSDR
-web-888
-Автоматические декодеры:
-cwsl_digi — CWSL_DIGI
-decodium — Decodium
-ft8tw, ft8af, ft8web — автодекодеры FT8
-n1dq-ka9q-radio — автодекодер
-wsprdaemon — WSPR мониторинг
-psk-recorder — запись без оператора
-skimmer — все виды скимеров
 
 👨‍💻 Автор
 Проект создан радиолюбителем для радиолюбителей.
